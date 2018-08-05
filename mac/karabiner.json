@@ -1113,7 +1113,6 @@
                                     "key_code": "d",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
                                             "right_command",
                                             "right_control",
                                             "right_shift",
@@ -1123,7 +1122,7 @@
                                 },
                                 "to": [
                                     {
-                                        "shell_command": "open -a 'Dictionary'"
+                                        "key_code": "delete_or_backspace"
                                     }
                                 ],
                                 "type": "basic"
@@ -1236,28 +1235,6 @@
                                 "to": [
                                     {
                                         "key_code": "b",
-                                        "modifiers": [
-                                            "left_control"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "d",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_command",
-                                            "right_control",
-                                            "right_shift",
-                                            "right_option"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "d",
                                         "modifiers": [
                                             "left_control"
                                         ]
@@ -1411,7 +1388,6 @@
                                     "key_code": "f",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
                                             "right_command",
                                             "right_control",
                                             "right_shift",
@@ -1421,7 +1397,7 @@
                                 },
                                 "to": [
                                     {
-                                        "shell_command": "open -a 'Dash'"
+                                        "key_code": "delete_forward"
                                     }
                                 ],
                                 "type": "basic"
