@@ -91,6 +91,8 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `⌃J`   | `↓` DownArrow   | show desktops              |
 | `⌃K`   | `↑` UpArrow     | switch prev desktop        |
 | `⌃L`   | `→` RightArrow  | switch next desktop        |
+| `D`    | delete          | modified by james          |
+| `F`    | delete_forward  | modified by james          |
 
 
 
@@ -130,7 +132,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `⌘A`             | `⌃↑`  Ctrl+UpArrow      | OSX Expose All                                               |
 | `S`              | `⌃⇥`  Ctrl+Tab          | Switch Tab                                                   |
 | `⌘S`             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                                         |
-| `⌘D`             | `F11`                   | Show Desktop                                                 |
 
 ### Bash Control
 
@@ -143,7 +144,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `C`    | `⌃C`Ctrl+Z  | SIGINT                                       |
 | `V`    | `⌃V`Ctrl+V  | Vim Prefix                                   |
 | `B`    | `⌃B`Ctrl+B  | [Tmux](http://tmux.github.io) Default Prefix |
-| `D`    | `⌃D` Ctrl+D | EOF                                          |
 
 #### Applications
 
@@ -159,7 +159,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `⌘T`   | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
 | `⌘D`   | Open Dictionary         | Find words                                      |
 | `⌘F`   | Open Dash               | Find API Document                               |
-| `F`    | Open Alfred             | Leaves to `⌃⌥⇧⌘F`                               |
 | `⌘D`   | Open Dictionary         | Find words                                      |
 | `G`    | Open Intellij IDEA      | Open IDE                                        |
 | `⌘G`   | Open Chrome             | Google Chrome                                   |
